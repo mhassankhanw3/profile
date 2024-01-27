@@ -1,0 +1,37 @@
+{
+  "acknowledgments": [
+    {
+      "person": "Hassan Khan - Full Stack Developer",
+      "link": "",
+      "note": "Thank you for exploring my portfolio."
+    },
+    {
+      "person": "Full Stack Developer on Upwork",
+      "link": "https://www.upwork.com/freelancers/~01a7e970f0115ffd50?viewMode=1",
+      "note": "Bringing comprehensive expertise to elevate your web and app projects on Upwork."
+    }
+  ],
+
+  "links": [
+    {
+      "person": "Collaborate with me on Fiverr",
+      "link": "https://www.fiverr.com/s/pqqPoR",
+      "note": "Elevating your projects with top-notch creative assets."
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://dev.to/mhassankhanw3",
+      "icon": "dev"
+    },
+    {
+      "url": "https://www.linkedin.com/in/hassankhanw3/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/mhassankhanw3",
+      "icon": "github"
+    }
+  ]
+}
