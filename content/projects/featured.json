@@ -37,30 +37,5 @@
       { "key": "javascript", "name": "JavaScript", "type": "devicon" },
       { "key": "git", "name": "Git(Hub)", "type": "devicon" }
     ]
-  },
-  {
-    "project": "Recipe Explorer React Native",
-    "url": "https://github.com/atlamors/portfolio",
-    "repo": "Public",
-    "descriptionTitle": "Effortlessly blending style and function,",
-    "description": "this React Native project offers a seamless recipe exploration experience.",
-    "imageOptions": [{ "key": "size", "value": "large" }],
-    "images": [
-      {
-        "key": "portfolio",
-        "hover": "left",
-        "h": "797",
-        "w": "556",
-        "url": "/img/portfolio-mock_single.png"
-      }
-    ],
-    "stack": [
-      { "key": "react", "name": "React Native", "type": "devicon" },
-      { "key": "tailwindcss", "name": "Tailwindcss", "type": "devicon" },
-      { "key": "firebase", "name": "Firebase", "type": "devicon" },
-      { "key": "mongodb", "name": "Firestore", "type": "devicon" },
-      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
-      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
-    ]
   }
 ]
